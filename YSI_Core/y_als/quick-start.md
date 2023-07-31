@@ -14,7 +14,7 @@ Contents
 
 
 ## Errors
-Use ALS_MAKE not ALS_PREFIX
+### Use ALS_MAKE not ALS_PREFIX
 This error comes up when converting from an older to a newer version of YSI. Previously y_als used the following syntax for generating unique symbol names:
 ```pawn
 #define ALS_PREFIX Mode
